@@ -4,16 +4,16 @@
 
 ## What I learn in this course
 
-⚡️ How CSS works behind the scenes: the cascade, specificity, inheritance, etc.
-⚡️ Using Sass in real-world projects: global variables, architecting CSS, managing media queries, Mixins, Extends and Functions.
-⚡️ Responsive images in HTML and CSS for faster pageloads.
-⚡️ The NPM ecosystem: development workflows and building processes.
-⚡️ Advanced CSS animations with @keyframes, animation and transition.
-⚡️ CSS architecture: component-based design, BEM, writing reusable code, etc.
-⚡️ Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units, etc.
-⚡️ The Easiest Way of Automatically Reloading a Page on File Changes.
-⚡️ Building a Pure CSS Popup.
-⚡️ Cross browser testing & support with @supports.
+⚡️ How CSS works behind the scenes: the cascade, specificity, inheritance, etc\
+⚡️ Using Sass in real-world projects: global variables, architecting CSS, managing media queries, Mixins, Extends and Functions\
+⚡️ Responsive images in HTML and CSS for faster pageloads\
+⚡️ The NPM ecosystem: development workflows and building processes\
+⚡️ Advanced CSS animations with @keyframes, animation and transition\
+⚡️ CSS architecture: component-based design, BEM, writing reusable code, etc\
+⚡️ Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units, etc\
+⚡️ The Easiest Way of Automatically Reloading a Page on File Changes\
+⚡️ Building a Pure CSS Popup\
+⚡️ Cross browser testing & support with @supports\
 
 ---
 
